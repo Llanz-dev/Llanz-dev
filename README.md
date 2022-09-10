@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
 <h3 align="center">A 3rd year IT student who self-study about Django</h3>
-<img src="https://i.gifer.com/2FV.gif" alt="llanz-dev" />
+<img src="https://imgs.search.brave.com/cEUEU2HHrTp4s3mov56vvGYUZQRZ3yixD_Di3qJuYFA/rs:fit:1024:683:1/g:ce/aHR0cHM6Ly9yZXNl/YXJjaHNuaXBlcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzEwL1Byb2dy/YW1taW5nLUxhbmd1/YWdlLTEwMjR4Njgz/LnBuZw" alt="llanz-dev" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llanz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="llanz-dev" /> </p>
 

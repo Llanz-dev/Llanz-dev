@@ -1,7 +1,7 @@
 [![MasterHead](https://external-preview.redd.it/ye-aiKmemzYJmDogvdQWWDO2AzZrldxy2FGW31ey-ds.gif?format=mp4&s=fa51d02d7b443c22dc6cdbd135808c75c66eeaf0)]
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
 <h3 align="center">A 3rd year IT student who self-study about Django</h3>
-<img src="https://imgs.search.brave.com/cH35ij6rNBhQqGYBcTRUvid5qREP_4Q3_lyuej0oQcI/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvY3lQYmh3/S055YXlTUS9naXBo/eS5naWY.gif" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://imgs.search.brave.com/cH35ij6rNBhQqGYBcTRUvid5qREP_4Q3_lyuej0oQcI/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvY3lQYmh3/S055YXlTUS9naXBo/eS5naWY.gif" alt="heroku" width="400"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llanz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="llanz-dev" /> </p>

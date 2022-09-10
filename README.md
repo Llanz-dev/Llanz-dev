@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/ye-aiKmemzYJmDogvdQWWDO2AzZrldxy2FGW31ey-ds.gif?format=mp4&s=fa51d02d7b443c22dc6cdbd135808c75c66eeaf0"/>
+<p align="left"><img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/ye-aiKmemzYJmDogvdQWWDO2AzZrldxy2FGW31ey-ds.gif?format=mp4&s=fa51d02d7b443c22dc6cdbd135808c75c66eeaf0"/></p>
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
 <h3 align="center">A 3rd year IT student who self-study about Django</h3>
 

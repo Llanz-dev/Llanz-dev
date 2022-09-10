@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/9302141/pexels-photo-9302141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
+<img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/ye-aiKmemzYJmDogvdQWWDO2AzZrldxy2FGW31ey-ds.gif?format=mp4&s=fa51d02d7b443c22dc6cdbd135808c75c66eeaf0"/>
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
 <h3 align="center">A 3rd year IT student who self-study about Django</h3>
 

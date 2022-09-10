@@ -1,6 +1,7 @@
-<p align="left"><img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/9302141/pexels-photo-9302141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/></p>
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
 <h3 align="center">A 3rd year IT student who self-study about Django</h3>
+<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/9302141/pexels-photo-9302141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llanz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="llanz-dev" /> </p>
 

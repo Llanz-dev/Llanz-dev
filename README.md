@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **llanzkennethluy@gmail.com**
 
-- ⚡ Fun fact **Morning breakfast and coffee**
+- ⚡ Fun fact **I'm a self-taught**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

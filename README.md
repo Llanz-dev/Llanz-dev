@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
-<h3 align="center">A 3rd year IT student who self-study about Django</h3>
+<h3 align="center">A 3rd year IT student who self-study</h3>
 <img src="https://imgs.search.brave.com/Tb9acMUPcQxxUnU5LVucl1knkPi7aY8vQRfZRNYOFXI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9uZXR6/d2Vya2FjYWRlbXku/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzA4LzEtNC5q/cGc" alt="python-django" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llanz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="llanz-dev" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **llanzkennethluy@gmail.com**
 
-- ⚡ Fun fact **I'm a self-taught**
+- ⚡ Fun fact **I watch Korean drama sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
-<h3 align="center">A 4th year IT student who self-study</h3>
+<h3 align="center">A 4th year IT student who feels like a computer science student</h3>
 <img src="https://wallpapercave.com/wp/wp10318664.jpg" alt="python-django" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llanz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="llanz-dev" /> </p>

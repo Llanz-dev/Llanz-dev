@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **my skillset**
 
-- 📫 How to reach me **llanzkennethluy@gmail.com**
+- 📫 How to reach me **luyllanzkenneth@gmail.com**
 
 - ⚡ Fun fact **I watch C or K drama sometimes**
 

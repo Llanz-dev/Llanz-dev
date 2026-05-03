@@ -10,11 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Angular**  
-- 💬 Ask me about **my skillset**  
+ 
 - 📫 Reach me at **luyllanzkenneth@gmail.com**  
-- ⚡ Fun fact: **I sometimes enjoy C or K dramas**  
 
 ---
 

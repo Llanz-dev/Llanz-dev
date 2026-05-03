@@ -1,58 +1,92 @@
-<h1 align="center">Hi 👋, I'm Llanz Kenneth Luy</h1>
-<h3 align="center">A Passionate Coding Instructor</h3>
-
-<img src="https://wallpapercave.com/wp/wp10318664.jpg" alt="python-django-banner" />
-
+<h1 align="center">Hi, I'm Llanz Kenneth 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=llanz-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  Coding Instructor • Aspiring Software Engineer • Future AI Engineer
 </p>
 
 ---
 
-### 👨‍💻 About Me
- 
-- 📫 Reach me at **luyllanzkenneth@gmail.com**  
+## 👨‍🏫 About Me
+
+I am currently a **Coding Instructor** based in Iloilo City, Philippines, responsible for teaching 450+ students from Grades 1 to 12, guiding them from beginner to advanced levels using platforms such as Scratch, mBlock, and MIT App Inventor.
+
+Through teaching, I have developed a strong foundation in programming concepts, problem-solving, and the ability to explain complex ideas in a clear and structured way.
+
+Alongside teaching, I actively build real-world projects to transition into a **Software Engineering role**, with a long-term goal of specializing in **Artificial Intelligence and intelligent systems**.
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/e5a78fcc-9baf-4510-a186-c01333298510" alt="QR Code for @LLANZ_000" width="300" />
-</p>
+## 🚀 Current Project
+
+### **Graviton – Physics-Focused Educational Platform**
+
+I am currently developing **Graviton**, a Physics-focused educational platform designed to enhance how students and teachers engage with complex scientific concepts.
+
+The platform combines structured learning content with interactive simulations, enabling students to better visualize and understand core principles in Physics.
+
+To further improve learning outcomes, Graviton incorporates **gamification elements** such as progress tracking, challenges, and interactive activities, making the learning experience more engaging and motivating for students.
+
+A key component of the system is an **AI-powered tutor**, designed to provide intelligent assistance by guiding students through concepts, answering questions, and supporting self-paced learning.
+
+Graviton aims to bridge the gap between traditional teaching methods and modern, technology-driven education by delivering a more immersive and effective learning experience.
+
+**Key Features:**
+- Structured Physics content aligned with academic topics  
+- Interactive simulations for concept visualization  
+- Gamified learning experience (progress, challenges, engagement)  
+- AI-powered tutor for personalized learning support  
+
+**Tech Stack:**
+- Frontend: ReactJS  
+- Backend: Django  
+- Deployment: AWS (planned)
+**Tech Stack:**
+- Frontend: ReactJS
+- Backend: Django
+- Deployment: AWS (planned)
+
+**Key Focus:**
+- Clean and modern UI for students
+- Efficient content delivery system
+- Scalable architecture for real-world usage
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### Frontend
+- ReactJS
+- Angular
+- JavaScript (ES6+)
+- Bootstrap
+- SASS
+
+### Backend
+- Django
+- Python
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- AWS (Learning & Deployment)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llanz-dev&show_icons=true&title_color=ff0026&text_color=bbff00&bg_color=000000&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llanz-dev&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llanz-dev" alt="GitHub Streak" />
-</p>
+## 📌 Goals
+
+- Transition into a **Software Engineer role**
+- Build and deploy more production-level applications
+- Gain strong expertise in **cloud systems and backend architecture**
+- Move towards **AI Engineering (LLMs, Computer Vision, AGI path)**
+
+---
+
+## 📫 Connect With Me
+
+- email: luyllanzkenneth@gmail.com
+
+---

@@ -15,42 +15,6 @@ Alongside teaching, I actively build real-world projects to transition into a **
 
 ---
 
-## 🚀 Current Project
-
-### **Graviton – Physics-Focused Educational Platform**
-
-I am currently developing **Graviton**, a Physics-focused educational platform designed to enhance how students and teachers engage with complex scientific concepts.
-
-The platform combines structured learning content with interactive simulations, enabling students to better visualize and understand core principles in Physics.
-
-To further improve learning outcomes, Graviton incorporates **gamification elements** such as progress tracking, challenges, and interactive activities, making the learning experience more engaging and motivating for students.
-
-A key component of the system is an **AI-powered tutor**, designed to provide intelligent assistance by guiding students through concepts, answering questions, and supporting self-paced learning.
-
-Graviton aims to bridge the gap between traditional teaching methods and modern, technology-driven education by delivering a more immersive and effective learning experience.
-
-**Key Features:**
-- Structured Physics content aligned with academic topics  
-- Interactive simulations for concept visualization  
-- Gamified learning experience (progress, challenges, engagement)  
-- AI-powered tutor for personalized learning support  
-
-**Tech Stack:**
-- Frontend: ReactJS  
-- Backend: Django  
-- Deployment: AWS (planned)
-**Tech Stack:**
-- Frontend: ReactJS
-- Backend: Django
-- Deployment: AWS (planned)
-
-**Key Focus:**
-- Clean and modern UI for students
-- Efficient content delivery system
-- Scalable architecture for real-world usage
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend

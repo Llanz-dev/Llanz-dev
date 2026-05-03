@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Llanz Kenneth 👋</h1>
+<h1 align="center">Hi, I'm Llanz👋</h1>
 <p align="center">
   Coding Instructor • Aspiring Software Engineer • Future AI Engineer
 </p>

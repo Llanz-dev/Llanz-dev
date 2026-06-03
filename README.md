@@ -7,7 +7,7 @@
 
 ## 👨‍🏫 About Me
 
-I am currently a **Coding Instructor** based in Iloilo City, Philippines, responsible for teaching 450+ students from Grades 1 to 12, guiding them from beginner to advanced levels using platforms such as Scratch, mBlock, and MIT App Inventor.
+I am currently a **Coding Instructor** based in Iloilo City, Philippines, responsible for teaching 450+ students from Grades 1 to 12, guiding them from beginner to advanced levels using visual programming.
 
 Through teaching, I have developed a strong foundation in programming concepts, problem-solving, and the ability to explain complex ideas in a clear and structured way.
 

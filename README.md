@@ -33,7 +33,7 @@ Alongside teaching, I actively build real-world projects to transition into a **
 ### Database
 - MongoDB
 
-AI & LLM
+### AI & LLM
 - LangChain (Currently Learning)
 - OpenAI API
 

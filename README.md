@@ -35,7 +35,7 @@ Alongside teaching, I actively build real-world projects to transition into a **
 
 ### AI & LLM
 - LangChain (Currently Learning)
-- OpenAI API
+- Gemini API
 
 ### Tools & Platforms
 - Git & GitHub

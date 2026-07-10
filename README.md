@@ -36,6 +36,8 @@ Alongside teaching, I actively build real-world projects to transition into a **
 ### AI & LLM
 - LangChain (Currently Learning)
 - Gemini API
+- Ollama
+- Groq
 
 ### Tools & Platforms
 - Git & GitHub

@@ -32,6 +32,7 @@ Alongside teaching, I actively build real-world projects to transition into a **
 
 ### Database
 - MongoDB
+- PostgreSQL
 
 ### AI & LLM
 - LangChain (Currently Learning)
